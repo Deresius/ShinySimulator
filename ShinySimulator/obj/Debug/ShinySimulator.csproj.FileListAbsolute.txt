@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\bin\Debug\ShinySimulator.exe.config
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\bin\Debug\ShinySimulator.exe
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\bin\Debug\ShinySimulator.pdb
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.exe
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.pdb
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\bin\Debug\ShinySimulator.exe.manifest
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\bin\Debug\ShinySimulator.application
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.exe.manifest
+C:\Users\David\source\repos\ShinySimulator\ShinySimulator\obj\Debug\ShinySimulator.application
